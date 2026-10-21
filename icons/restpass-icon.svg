@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">RestPass</title>
+  <rect width="512" height="512" rx="104" fill="#175D55"/>
+  <path d="M128 138h122c82 0 134 40 134 112 0 52-29 88-78 104l74 20v42l-127-35v-68h9c45 0 72-19 72-60 0-37-27-56-79-56h-77v209h-50V138z" fill="#FFFFFF"/>
+</svg>

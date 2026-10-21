@@ -1,0 +1,31 @@
+{
+  "name": "RestPass",
+  "short_name": "RestPass",
+  "description": "Verified hotel day passes in Sri Lanka.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F8F8F4",
+  "theme_color": "#175D55",
+  "icons": [
+    {
+      "src": "icons/restpass-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/restpass-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/restpass-icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
