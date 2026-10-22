@@ -4,4 +4,4 @@ This public repository contains compiled assets only for the clearly labelled, n
 
 The private application source, server secrets, database credentials, real hotel data, payment configuration and transactional email configuration are not stored here.
 
-Current compiled source: `SalmaanNasir/restpass@d783fd6`.
+Current compiled source: `SalmaanNasir/restpass@cbdf017`.
