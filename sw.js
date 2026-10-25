@@ -4,8 +4,8 @@ const scopedPath = (path) => `${SCOPE_PATH}${path}`;
 const PUBLIC_SHELL = [
   scopedPath('/'),
   scopedPath('/manifest.webmanifest'),
-  scopedPath('/brand/RestPass_Wordmark.svg'),
-  scopedPath('/brand/RestPass_Wordmark_Dark.svg'),
+  scopedPath('/brand/RestPass_Wordmark.png'),
+  scopedPath('/brand/RestPass_Wordmark_Dark.png'),
   scopedPath('/icons/restpass-icon-192.png'),
   scopedPath('/icons/restpass-icon-512.png'),
 ];
