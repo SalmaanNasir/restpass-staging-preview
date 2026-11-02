@@ -4,7 +4,7 @@ This public repository contains compiled assets only for the clearly labelled, n
 
 The private application source, server secrets, database credentials, real hotel data, payment configuration and transactional email configuration are not stored here.
 
-Current compiled source: `SalmaanNasir/restpass@2a3d9b4598f66f7bf9784c9477738e8c4a8fbad8`.
+Current compiled source: `SalmaanNasir/restpass@469a7939eaa4c3f4293615b7b75c5715ab2946f6`.
 
 Build gates: checkout and first-party behavioural collection disabled, demo mode disabled, partner
 knowledge hub unpublished, administrator MFA required, and the Supabase target fixed to
