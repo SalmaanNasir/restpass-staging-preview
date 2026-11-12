@@ -1,6 +1,6 @@
 {
-  "name": "RestPass",
-  "short_name": "RestPass",
+  "name": "restpass",
+  "short_name": "restpass",
   "description": "Verified hotel day passes in Sri Lanka.",
   "start_url": "./",
   "scope": "./",

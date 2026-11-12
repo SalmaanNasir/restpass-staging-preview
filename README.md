@@ -1,10 +1,10 @@
-# RestPass staging preview
+# restpass staging preview
 
-This public repository contains compiled assets only for the clearly labelled, non-transactional RestPass staging preview at `staging.restpass.lk`.
+This public repository contains compiled assets only for the clearly labelled, non-transactional restpass staging preview at `staging.restpass.lk`.
 
 The private application source, server secrets, database credentials, real hotel data, payment configuration and transactional email configuration are not stored here.
 
-Current compiled source: `SalmaanNasir/restpass@cd7b3e5cd4f3887bcb5e53ade40bead0454d5d30`.
+Current compiled source: `SalmaanNasir/restpass@58ec1d607b0e38a459ba982e05270978114fbe86`.
 
 Build gates: checkout and first-party behavioural collection disabled, demo mode disabled, the public
 partner knowledge hub unpublished, administrator MFA required, and the Supabase target fixed to
