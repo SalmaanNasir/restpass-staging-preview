@@ -1,0 +1,2 @@
+const s="/assets/md-DRlxvNwm.svg";export{s as default};
+//# sourceMappingURL=md-uIsJJvwu.js.map
