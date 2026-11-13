@@ -1,2 +1,0 @@
-const e="data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20id='flag-icons-hu'%20viewBox='0%200%20640%20480'%3e%3cg%20fill-rule='evenodd'%3e%3cpath%20fill='%23d43516'%20d='M0%200h640v160H0z'/%3e%3cpath%20fill='%23fff'%20d='M0%20160h640v160H0z'/%3e%3cpath%20fill='%23388d00'%20d='M0%20320h640v160H0z'/%3e%3c/g%3e%3c/svg%3e";export{e as default};
-//# sourceMappingURL=hu-Dwzk7CWy.js.map
