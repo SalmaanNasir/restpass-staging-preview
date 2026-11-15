@@ -4,10 +4,10 @@ This public repository contains compiled assets only for the clearly labelled, n
 
 The private application source, server secrets, database credentials, real hotel data, payment configuration and transactional email configuration are not stored here.
 
-Current compiled source: `SalmaanNasir/restpass@9d2e32a1130d99d501ad8772161692d70a8f8bef`.
+Current compiled source: `SalmaanNasir/restpass@6eab26edafd79f3c0163402d5e91072a789614d1`.
 
 Build gates: checkout and first-party behavioural collection disabled, demo mode disabled, the public
-partner knowledge hub unpublished, administrator MFA required, and the Supabase target fixed to
-`qfdhbbnjudfitwrrbxuy`. Customer accounts and reviews are visible only for the controlled staging
-UAT. The server enforces the approved tester allowlist. Apple authentication, scheduled review
-invitations, checkout, analytics and monitoring remain disabled.
+partner knowledge hub published, administrator MFA required, and the Supabase target fixed to
+`qfdhbbnjudfitwrrbxuy`. Customer accounts, final post-visit feedback and scheduled review invitations
+are enabled for controlled staging UAT. The server enforces the approved tester allowlist. Apple
+authentication, checkout, analytics and monitoring remain disabled.
