@@ -1,1 +1,0 @@
-const s="/assets/sa-Dh79zbT9.svg";export{s as default};
