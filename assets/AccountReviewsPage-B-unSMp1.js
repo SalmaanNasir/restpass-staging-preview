@@ -1,0 +1,2 @@
+import{u as c,ae as i,r as o,e as u,j as m,N as v,af as d,V as p}from"./index-XZ1TVWyt.js";function l(){const[t,a]=c(),{openFeedback:s}=i(),r=o.useRef("");u({queryKey:["customer-reviews"],queryFn:d,enabled:p()});const e=t.get("invitation")||"";return o.useEffect(()=>{if(!e||e===r.current)return;r.current=e,s({invitationId:e});const n=new URLSearchParams(t);n.delete("invitation"),a(n,{replace:!0})},[s,t,e,a]),m.jsx(v,{to:"/404",replace:!0})}export{l as AccountReviewsPage};
+//# sourceMappingURL=AccountReviewsPage-B-unSMp1.js.map
